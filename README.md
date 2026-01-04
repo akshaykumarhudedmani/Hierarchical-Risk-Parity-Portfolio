@@ -1,8 +1,7 @@
 # Hierarchical Risk Parity (HRP) Portfolio Engine
 
 **Event:** Arbitrage Arena 2026 | **Problem Statement:** Cross-Asset Survivability  
-**Team:** Akshay Kumar & Vishruth
-
+**Team:** TEAM Z
 ![Equity Curve](https://github.com/user-attachments/assets/abf716d9-4bbc-4549-be6d-72088d903d92)
 
 ## Project Overview
