@@ -3,8 +3,7 @@
 **Event:** Arbitrage Arena 2026 | **Problem Statement:** Cross-Asset Survivability  
 **Team:** Akshay Kumar & Vishruth
 
-![Equity Curve](<img width="1189" height="607" alt="image" src="https://github.com/user-attachments/assets/6c3ad76e-b15d-455c-876a-82f0941f81e4" />
-)
+![Equity Curve](<img width="1189" height="607" alt="Screenshot 2026-01-04 184746" src="https://github.com/user-attachments/assets/f8124bd9-213d-4a86-826b-758ea3125389" />)
 
 ## Project Overview
 This project implements a **Hierarchical Risk Parity (HRP)** model to optimize a cross-asset portfolio (Crypto, Equities, Commodities). Unlike traditional Mean-Variance optimization, HRP uses **Machine Learning Clustering** to allocate capital based on risk hierarchy rather than unstable return predictions.
